@@ -51,6 +51,7 @@ about what they are, and built around how humans actually perceive
 and move through things.
 
 Craft isn't decoration. It's what's left when the interface gets out of the way.
+
 ---
 
 ## Find me
